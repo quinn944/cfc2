@@ -1,0 +1,147 @@
+[START_CONFERENCES]
+SEC
+ACC
+Big Ten
+Big 12
+Conf USA
+MAC
+Mt West
+Pac-12
+Eastern USA
+Sun Belt
+[END_CONFERENCES]
+[START_TEAMS]
+Florida Gators, FLOR, SEC, 90, LSU, 4
+LSU Tigers, LSU, SEC, 86, FLOR, 4
+Central Florida Knights, UCF, SEC, 88, USF, 4
+South Florida Bulls, USF, SEC, 82, UCF, 4
+Florida State Seminoles, FSU, SEC, 87, MIA, 4
+Miami Hurricanes, MIA, SEC, 92, FSU, 4
+Georgia Tech Yellow Jackets, GT, SEC, 93, UGA, 4
+Georgia Bulldogs, UGA, SEC, 92, GT, 4
+Florida Atantic Owls, FAU, SEC, 84, FIU, 4
+FIU Panthers, FIU, SEC, 80, FAU, 4
+Alabama Crimson Tide, BAMA, SEC, 84, AUB, 4
+Auburn Tigers, AUB, SEC, 87, BAMA, 4
+[END_CONF]
+Clemson Tigers, CLEM, ACC, 81, SCAR, 4
+South Carolina Gamecocks, SCAR, ACC, 94, CLEM, 4
+Virginia Cavaliers, VIR, ACC, 88, VTEC, 4
+Virginia Tech Hokies, VTEC, ACC, 93, VIR, 4
+North Carolina Tar Heels, UNC, ACC, 92, NCST, 4
+NC State Wolfpack, NCST, ACC, 88, UNC, 4
+Wake Forest Demon Deacons, WAKE, ACC, 86, DUKE, 4
+Duke Blue Devils, DUKE, ACC, 85, WAKE, 4
+Maryland Terrapins, MARY, ACC, 90, WVU, 3
+West Virginia Mountaineers, WVU, ACC, 86, MARY, 4
+Syracuse Orange, SYR, ACC, 88, UCON, 3
+UConn Huskies, UCON, ACC, 81, SYR, 3
+[END_CONF]
+Illinois Fighting Illini, ILL, Big Ten, 80, IND, 2
+Indiana Hoosiers, IND, Big Ten, 85, ILL, 2
+Iowa Hawkeyes, IOW, Big Ten, 93, ISU, 1
+Iowa State Cyclones, ISU, Big Ten, 88, IOW, 1
+Michigan Wolverines, MIC, Big Ten, 89, OSU, 2
+Ohio State Buckeyes, OSU, Big Ten, 82, MIC, 2
+Michigan State Spartans, MSU, Big Ten, 82, PSU, 2
+Penn State Nittany Lions, PSU, Big Ten, 92, MSU, 3
+Minnesota Golden Gophers, MIN, Big Ten, 81, WIS, 2
+Wisconsin Badgers, WIS, Big Ten, 80, MIN, 2
+Northwestern Wildcats, NWU, Big Ten, 95, PUR, 2
+Purdue Boilermakers, PUR, Big Ten, 89, NWU, 2
+[END_CONF]
+Baylor Bears, BAY, Big 12, 86, TCU, 1
+TCU Horned Frogs, TCU, Big 12, 95, BAY, 1
+Houston Cougars, HOU, Big 12, 95, TTEC, 1
+Texas Tech Red Raiders, TTEC, Big 12, 94, HOU, 1
+Nebraska Cornhuskers, NEB, Big 12, 87, MIZ, 1
+Missouri Tigers, MIZ, Big 12, 93, NEB, 1
+Kansas Jayhawks, KAN, Big 12, 88, KSU, 1
+Kansas State Wildcats, KSU, Big 12, 83, KAN, 1
+Oklahoma Sooners, OKL, Big 12, 94, TEX, 1
+Texas Longhorns, TEX, Big 12, 82, OKL, 1
+Oklahoma State Cowboys, OKST, Big 12, 89, TXAM, 1
+Texas AM Aggies, TXAM, Big 12, 85, OKST, 1
+[END_CONF]
+Army Black Knights, ARMY, Conf USA, 82, NAVY, 3
+Navy Midshipmen, NAVY, Conf USA, 93, ARMY, 3
+East Carolina Pirates, ECU, Conf USA, 90, WKU, 4
+Western Kentucky Hilltoppers, WKU, Conf USA, 80, ECU, 2
+Air Force Falcons, AF, Conf USA, 93, RUT, 0
+Rutgers Scarlet Knights, RUT, Conf USA, 89, AF, 3
+LA Tech Bulldogs, LTEC, Conf USA, 94, TUL, 4
+Tulane Green Wave, TUL, Conf USA, 81, LTEC, 4
+Marshall Thundering Herd, MARS, Conf USA, 88, SMU, 3
+SMU Mustangs, SMU, Conf USA, 91, MARS, 1
+Southern Mississippi Golden Eagles, SMIS, Conf USA, 92, UAB, 4
+UAB Blazers, UAB, Conf USA, 89, SMIS, 4
+[END_CONF]
+Akron Zips, AKR, MAC, 90, KNST, 2
+Kent State Golden Flashes, KNST, MAC, 81, AKR, 2
+Ball State Cardinals, BAL, MAC, 93, NIU, 2
+Northern Illinois Huskies, NIU, MAC, 83, BAL, 2
+Bowling Green Falcons, BG, MAC, 95, TOL, 2
+Toledo Rockets, TOL, MAC, 95, BG, 2
+Buffalo Bulls, BUF, MAC, 92, EMU, 3
+Eastern Mich Eagles, EMU, MAC, 95, BUF, 2
+Central Mich Chippewas, CMU, MAC, 91, WMU, 2
+Western Mich Broncos, WMU, MAC, 85, CMU, 2
+Miami OH RedHawks, MiOH, MAC, 92, OHIO, 2
+Ohio Bobcats, OHIO, MAC, 90, MiOH, 2
+[END_CONF]
+Utah Utes, UTAH, Mt West, 80, COL, 0
+Colorado Buffaloes, COL, Mt West, 89, UTAH, 0
+Boise State Broncos, BOIS, Mt West, 92, SDSU, 0
+San Diego State, SDSU, Mt West, 83, BOIS, 0
+BYU Cougars, BYU, Mt West, 82, UTST, 0
+Utah State Aggies, UTST, Mt West, 84, BYU, 0
+Colorado State Rams, CSU, Mt West, 90, WYOM, 0
+Wyoming Cowboys, WYOM, Mt West, 86, CSU, 1
+Fresno State Bulldogs, FRES, Mt West, 93, SJSU, 0
+San Jose State Spartans, SJSU, Mt West, 88, FRES, 0
+Nevada Wolf Pack, NEV, Mt West, 84, NMEX, 0
+New Mexico Lobos, NMEX, Mt West, 84, NEV, 0
+[END_CONF]
+Arizona Wildcats, ARIZ, Pac-12, 83, ASU, 0
+Arizona State Sun Devils, ASU, Pac-12, 91, ARIZ, 0
+California Golden Bears, CAL, Pac-12, 93, STAN, 0
+Stanford Cardinal, STAN, Pac-12, 95, CAL, 0
+Hawaii Rainbow Warriors, HAW, Pac-12, 88, ND, 0
+Notre Dame Fighting Irish, ND, Pac-12, 80, HAW, 2
+Oregon Ducks, OREG, Pac-12, 85, ORST, 0
+Oregon State Beavers, ORST, Pac-12, 82, OREG, 0
+UCLA Bruins, UCLA, Pac-12, 94, USC, 0
+USC Trojans, USC, Pac-12, 86, UCLA, 0
+Washington Huskies, WASH, Pac-12, 87, WSU, 0
+Washington State Cougars, WSU, Pac-12, 81, WASH, 0
+[END_CONF]
+Pittsburgh Panthers, PITT, Eastern USA, 80, TEM, 3
+Temple Owls, TEM, Eastern USA, 85, PITT, 3
+Arkansas Razorbacks, ARK, Eastern USA, 94, MEMP, 4
+Memphis Tigers, MEMP, Eastern USA, 95, ARK, 4
+Cincinatti Bearcats, CINN, Eastern USA, 86, APP, 2
+Appalachian State Mountaineers, APP, Eastern USA, 86, CINN, 4
+Kentucky Wildcats, UK, Eastern USA, 93, LOUI, 2
+Louisiville Cardinals, LOUI, Eastern USA, 81, UK, 2
+Ole Miss Rebels, MISS, Eastern USA, 83, MSST, 4
+Mississippi State Bulldogs, MSST, Eastern USA, 80, MISS, 4
+Tennessee Volunteers, TENN, Eastern USA, 87, VAND, 4
+Vanderbilt Commodores, VAND, Eastern USA, 86, TENN, 4
+[END_CONF]
+Coastal Carolina Chanticleers, COA, Sun Belt, 80, ODOM, 4
+Old Dominion Monarchs, ODOM, Sun Belt, 91, COA, 3
+LA Monroe Warhawks, LMON, Sun Belt, 93, TROY, 4
+Troy Trojans, TROY, Sun Belt, 81, LMON, 4
+Mid Tennessee Blue Raiders, MTSU, Sun Belt, 89, GASO, 3
+Georgia Southern, GASO, Sun Belt, 91, MTSU, 4
+UTEP Miners, UTEP, Sun Belt, 94, UTSA, 1
+UTSA Roadrunners, UTSA, Sun Belt, 86, UTEP, 1
+North Texas Mean Green, NTEX, Sun Belt, 85, TXST, 1
+Texas State Bobcats, TXST, Sun Belt, 94, NTEX, 1
+Tulsa Golden Hurricane, TULS, Sun Belt, 82, RICE, 1
+Rice Owls, RICE, Sun Belt, 90, TULS, 1
+[END_CONF]
+[END_TEAMS]
+Rose Bowl, Orange Bowl, Sugar Bowl, Fiesta Bowl, Peach Bowl, Cotton Bowl, Citrus Bowl, Gator Bowl, Cactus Bowl, Alamo Bowl, Holiday Bowl, Sun Bowl, Liberty Bowl, Independence Bowl, Vegas Bowl, Military Bowl, Aloha Bowl, Humanitarian Bowl
+[END_BOWL_NAMES]
+
